@@ -1,6 +1,6 @@
 package observerPattern;
 
-public class Subscriber {
+public class Subscriber implements SubscriberObserver{
 
     private String subscriberName;
 
