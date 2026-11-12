@@ -14,7 +14,7 @@ public class Subscriber implements SubscriberObserver{
     }
 
     @Override 
-    public void updateSubscriber(News news) {
+    public void updateSubscriber(NewsAgency news) {
 
     }
 

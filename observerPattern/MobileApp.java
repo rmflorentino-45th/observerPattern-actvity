@@ -20,7 +20,7 @@ public class MobileApp {
         subscriberList.add(ashley);
 
 
-        News news = new News();
+        NewsAgency news = new NewsAgency();
         news.setSubscriberList(subscriberList);
 
         System.out.println("Sending newsletters to current subscribers... \n");

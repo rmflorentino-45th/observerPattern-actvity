@@ -1,5 +1,5 @@
 package observerPattern;
 
 public interface SubscriberObserver {
-    public void updateSubscriber(News news);
+    public void updateSubscriber(NewsAgency news);
 }
